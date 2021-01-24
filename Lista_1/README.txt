@@ -1,11 +1,22 @@
 Autor: Vitor de Almeida Silva
 
-
 conteudo:
-
 - espelhamento;
-- deformação;
+- deformaÃ§Ã£o;
 - cortar imagem;
-- translação de parte da imagem;
-- Aumento/Redução de escala;
-- Rotação;
+- translaÃ§Ã£o de parte da imagem;
+- Aumento/ReduÃ§Ã£o de escala;
+- RotaÃ§Ã£o;
+
+.
+.
+.
+.
+
+content:
+- mirroring;
+- deformation;
+- crop image;
+- translation of part of the image;
+- Scale up/down;
+- Rotation;
