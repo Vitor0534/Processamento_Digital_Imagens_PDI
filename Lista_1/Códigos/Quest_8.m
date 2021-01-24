@@ -1,0 +1,1 @@
+%0) lendo e mostrando uma imagem do disco img=imread('C:\Users\Vitor\Desktop\faculdade\9 nono periodo\PDI\Lista 1\edward.png');   img2=img; imshow(img2(:,:,:)); title('imagem original'); figure();   imgNova=reduz_Escala_Metade(img2); imshow(imgNova(:,:,:)); title('imagem escala pela metade'); figure();   
