@@ -4,7 +4,7 @@ Autor: Vitor de Almeida Silva
 
 PTBR:
 
-O presente repositório  composto por códigos em Matlab e relatórios explicando os conceitos aplicados na solução de questões de Processamento digital de imagem (PDI). O conteúdo abrange os conceitos iniciais como, intensidade e manipulação de imagens por meio das funções do Matlab, até conceitos avançados como, tratamento, segmentação, filtros espaciais, filtros em frequência, transformações e classificação de imagens. 
+O presente repositório é composto por códigos em Matlab e relatórios explicando os conceitos aplicados na solução de questões de Processamento digital de imagem (PDI). O conteúdo abrange os conceitos iniciais como, intensidade e manipulação de imagens por meio das funções do Matlab, até conceitos avançados como, tratamento, segmentação, filtros espaciais, filtros em frequência, transformações e classificação de imagens. 
 
 Inglês:
 
