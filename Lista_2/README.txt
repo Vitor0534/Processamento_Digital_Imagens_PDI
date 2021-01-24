@@ -1,13 +1,29 @@
 Autor: Vitor de Almeida Silva
 
 
-Conteúdo:
+ConteÃºdo:
 
 - GrayScale;
-- binarização de imagem;
-- correção gama;
-- normalização;
-- Geração de Histograma da imagem;
-- Aumento e redução de intensidade;
-- Limiarização;
-- Quantificação de planos de cores; 
+- binarizaÃ§Ã£o de imagem;
+- correÃ§Ã£o gama;
+- normalizaÃ§Ã£o;
+- GeraÃ§Ã£o de Histograma da imagem;
+- Aumento e reduÃ§Ã£o de intensidade;
+- LimiarizaÃ§Ã£o;
+- QuantificaÃ§Ã£o de planos de cores; 
+
+.
+.
+.
+
+
+Content:
+
+- GrayScale;
+- image binarization;
+- gamma correction;
+- standardization;
+- Histogram generation of the image;
+- Increase and reduction of intensity;
+- Thresholding;
+- Quantification of color planes;
