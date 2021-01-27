@@ -1,11 +1,21 @@
 Autor: Vitor de Almeida Silva
 
-Conteudo: Segmentação
+Conteudo: SegmentaÃ§Ã£o
 
-- Seguimentação por superpixels;
+- SeguimentaÃ§Ã£o por superpixels;
 - K-means Clustering;
-- Método de Otsu;
-- Método de médias móveis;
-- Segmentação por region grow;
+- MÃ©todo de Otsu;
+- MÃ©todo de mÃ©dias mÃ³veis;
+- SegmentaÃ§Ã£o por region grow;
 
+.
+.
+.
 
+Content: segmentation 
+
+- Superpixel tracking;
+- K-means Clustering;
+- Otsu method;
+- Moving averages method;
+- Region grow segmentation;
