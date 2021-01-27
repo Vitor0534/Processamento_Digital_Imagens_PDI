@@ -2,7 +2,7 @@
 
 # Português
 Este trabalho foi desenvolvido em conjunto com:
-	- Vitor de Almeida Silva (github: https://github.com/Vitor0534)
+	- Lucas Macedo da Silva (github: https://github.com/LuckasMacedo2)
 	- Higor Alves Ferreira
 	
 O projeto tinha como objetivo classificar as células de malária da base de dados: Malaria Cell Images Dataset.
@@ -26,7 +26,7 @@ Para mais informções leia o PDF presente na pasta "Relatorio".
 
 # Inglês
 This work was developed in conjunction with:
-- Vitor de Almeida Silva (github: https://github.com/Vitor0534)
+- Lucas Macedo da Silva (github: https://github.com/LuckasMacedo2)
 - Higor Alves Ferreira
 
 The project aimed to classify as malaria cells of the database: Malaria Cell Images Dataset.
