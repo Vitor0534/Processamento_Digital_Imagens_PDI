@@ -8,7 +8,7 @@ O presente repositório é composto por códigos em Matlab e relatórios explica
 
 Dentro de cada pasta existe um relatório em formato pdf explicando o conteúdo
 
-Inglês:
+English:
 
 This repository is composed of codes in Matlab and reports explaining the concepts applied in the solution of issues of Digital Image Processing (PDI). The content covers initial concepts such as image intensity and manipulation through Matlab functions, even advanced concepts such as treatment, segmentation, spatial filters, frequency filters, transformations, and image classification.
 
